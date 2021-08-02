@@ -1,0 +1,12 @@
+C:\Users\Amiraslan\source\repos\BestOil\BestOil\bin\Debug\BestOil.exe.config
+C:\Users\Amiraslan\source\repos\BestOil\BestOil\bin\Debug\BestOil.exe
+C:\Users\Amiraslan\source\repos\BestOil\BestOil\bin\Debug\BestOil.pdb
+C:\Users\Amiraslan\source\repos\BestOil\BestOil\bin\Debug\Guna.UI.dll
+C:\Users\Amiraslan\source\repos\BestOil\BestOil\obj\Debug\BestOil.csproj.AssemblyReference.cache
+C:\Users\Amiraslan\source\repos\BestOil\BestOil\obj\Debug\BestOil.Form1.resources
+C:\Users\Amiraslan\source\repos\BestOil\BestOil\obj\Debug\BestOil.Properties.Resources.resources
+C:\Users\Amiraslan\source\repos\BestOil\BestOil\obj\Debug\BestOil.csproj.GenerateResource.cache
+C:\Users\Amiraslan\source\repos\BestOil\BestOil\obj\Debug\BestOil.csproj.CoreCompileInputs.cache
+C:\Users\Amiraslan\source\repos\BestOil\BestOil\obj\Debug\BestOil.csproj.CopyComplete
+C:\Users\Amiraslan\source\repos\BestOil\BestOil\obj\Debug\BestOil.exe
+C:\Users\Amiraslan\source\repos\BestOil\BestOil\obj\Debug\BestOil.pdb
